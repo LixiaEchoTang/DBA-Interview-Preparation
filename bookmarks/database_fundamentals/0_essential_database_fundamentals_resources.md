@@ -3,16 +3,13 @@
 ## Articles & Blog Posts
 
 ### Introduction to Database Systems
-An in-depth article covering the basics of relational databases, data models, normalization, and SQL fundamentals.  
-**Resource:** IBM Developer: Intro to Databases
+
 
 ### SQL Fundamentals
-A comprehensive guide covering SQL basics including CRUD operations, joins, and aggregations.  
-**Resource:** Mode Analytics SQL Tutorial
+
 
 ### Understanding Database Normalization
-A detailed explanation of normalization concepts with practical examples to demonstrate their application.  
-**Resource:** Vertabelo Database Modeler Blog
+
 
 ## Online Tutorials & Interactive Courses
 
@@ -25,8 +22,6 @@ Video lessons and interactive exercises that introduce database concepts and SQL
 ### [SQLZoo](https://sqlzoo.net/)
 An interactive tutorial offering hands-on practice through exercises and quizzes to solidify SQL knowledge.
 
-### [FreeCodeCamp SQL Tutorial for Beginners](https://www.freecodecamp.org/news/learn-sql-basics-for-free/)
-A comprehensive video or article-based tutorial aimed at beginners learning SQL fundamentals.
 
 ## Books & eBooks
 
@@ -34,14 +29,14 @@ A comprehensive video or article-based tutorial aimed at beginners learning SQL 
   *by Silberschatz, Korth, and Sudarshan*  
   A foundational textbook that covers database design, relational models, and SQL in depth.
 
-- **SQL in a Nutshell**  
+- **[SQL in a Nutshell](https://theswissbay.ch/pdf/Gentoomen%20Library/Databases/mssql/SQL%20In%20Nutshell%202001.pdf)**  
   *by Kevin Kline, Brand Hunt, and Daniel Kline*  
   A concise reference guide that explains SQL syntax and functions across different database systems.
 
-- **Learning SQL**  
+- **[Learning SQL](https://www.r-5.org/files/books/computers/languages/sql/mysql/Alan_Beaulieu-Learning_SQL-EN.pdf)**  
   *by Alan Beaulieu*  
   A beginner-friendly book that introduces SQL concepts gradually and provides practical query examples.
 
-- **Database Design for Mere Mortals**  
+- **[Database Design for Mere Mortals](https://ptgmedia.pearsoncmg.com/images/9780321884497/samplepages/0321884493.pdf)**  
   *by Michael J. Hernandez*  
   A highly recommended resource for understanding and designing relational databases effectively.
