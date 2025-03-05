@@ -86,7 +86,7 @@ flowchart TD
     C --> M[Problem Solving]
     D --> N[Relocation]
     D --> O[Hybrid Work Model]
-
+```
 
 ## Summary
 - **Key Takeaways:**  
