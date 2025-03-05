@@ -65,7 +65,6 @@ This analysis is based on a typical job description for a Senior Oracle DBA role
   - While certifications are important, the focus is on hands-on expertise and practical problem-solving abilities.
 
 ## Job Requirements Flowchart
-Below is a visual representation of the key components of the job requirements:
 
 ```mermaid
 flowchart TD
@@ -87,6 +86,7 @@ flowchart TD
     C --> M[Problem Solving]
     D --> N[Relocation]
     D --> O[Hybrid Work Model]
+
 
 ## Summary
 - **Key Takeaways:**  
