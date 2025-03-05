@@ -67,7 +67,7 @@ This analysis is based on a typical job description for a Senior Oracle DBA role
 ## Job Requirements Flowchart
 
 ```mermaid
-flowchart TD
+flowchart LR
     A[Job Requirements]
     B[Technical Skills]
     C[Soft Skills]
