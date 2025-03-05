@@ -18,6 +18,26 @@ To master the core competencies required for the DBA role, including database fu
 - **Mock Interviews:** Regular sessions to practice both technical and behavioral responses.
 - **Feedback Loop:** Weekly reviews and adjustments based on progress and feedback.
 
+## 30-Day Study Plan Timeline
+
+Below is a visual timeline for my 30-day DBA study plan:
+
+```mermaid
+gantt
+    title 30-Day DBA Study Plan
+    dateFormat  YYYY-MM-DD
+    section Week 1: Database Fundamentals & Design
+    Fundamentals           :a1, 2025-03-01, 7d
+    section Week 2: Performance Tuning & Troubleshooting
+    Performance Tuning     :a2, 2025-03-08, 7d
+    section Week 3: Backup/Recovery, Security & Azure Labs
+    Backup & Security      :a3, 2025-03-15, 7d
+    Azure Labs             :a4, 2025-03-15, 7d
+    section Week 4: Soft Skills & Mock Interviews
+    Soft Skills            :a5, 2025-03-22, 7d
+    Mock Interviews        :a6, 2025-03-22, 7d
+```
+
 ---
 
 ## Weekly Breakdown
