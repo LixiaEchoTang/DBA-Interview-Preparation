@@ -20,7 +20,7 @@ Below are some seminal papers that have significantly influenced the field of da
 - **Contribution:** Focused on query optimization strategies.
 - **Impact:** Helped databases decide the most efficient way to execute queries by selecting the optimal access paths.
 
-# Top Valued Courses for Oracle Database Fundamentals
+## Top Valued Courses for Oracle Database Fundamentals
 
 - **Oracle University:**  
   [Oracle University Official Training & Certification Programs](https://education.oracle.com/)  
@@ -38,7 +38,7 @@ Below are some seminal papers that have significantly influenced the field of da
   [Oracle Learning Channel](https://www.youtube.com/user/OracleLearning)  
   The official YouTube channel featuring free, high-quality video tutorials that cover Oracle Database fundamentals and beyond.
 
-# Oracle Documentation Official Website
+## Oracle Documentation Official Website
 
 Visit the official Oracle Documentation website for comprehensive guides, reference manuals, and technical articles on all Oracle products and technologies:
 
