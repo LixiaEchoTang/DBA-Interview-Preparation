@@ -30,10 +30,6 @@ Below are some seminal papers that have significantly influenced the field of da
   [Databases: Relational Databases and SQL](https://learning.edx.org/course/course-v1:StanfordOnline+SOE.YDB-SQL0001+2T2020/home)  
   A well-structured course that provides a solid foundation in SQL and database principles.
 
-- **Pluralsight:**  
-  [Oracle Database Fundamentals](https://www.pluralsight.com/courses/oracle-database-fundamentals)  
-  An in-depth course covering essential Oracle Database concepts to build practical skills quickly.
-
 - **Oracle Base & Oracle-Developer.net:**  
   [Oracle Base Website](https://oracle-base.com/)  
   Offers clear, example-driven tutorials and expert articles that range from basic to advanced Oracle Database topics.
