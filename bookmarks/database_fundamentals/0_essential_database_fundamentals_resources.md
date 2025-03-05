@@ -1,14 +1,25 @@
 # Essential Database Fundamentals Resources
 
-## Articles & Blog Posts
+## Fundamental Database Articles
 
-### Introduction to Database Systems
+Below are some seminal papers that have significantly influenced the field of databases:
 
+### 1. E.F. Codd’s “A Relational Model of Data for Large Shared Data Banks” (1970)
+- **Contribution:** Introduced the relational model, which forms the basis of almost all modern database systems.
+- **Impact:** Shifted the focus from hierarchical and network models to a flexible, table-based structure.
 
-### SQL Fundamentals
+### 2. Codd’s Works on Normalization
+- **Contribution:** Developed the concept of normalization.
+- **Impact:** Provided rules (normal forms) for structuring a relational database to reduce redundancy and improve data integrity.
 
+### 3. Peter Chen’s “The Entity-Relationship Model: Toward a Unified View of Data” (1976)
+- **Contribution:** Introduced the Entity-Relationship (ER) model.
+- **Impact:** Laid the groundwork for conceptual data modeling, helping in the visual design of databases.
 
-### Understanding Database Normalization
+### 4. “Access Path Selection in a Relational Database Management System” by Selinger et al. (1979)
+- **Contribution:** Focused on query optimization strategies.
+- **Impact:** Helped databases decide the most efficient way to execute queries by selecting the optimal access paths.
+
 
 
 ## Online Tutorials & Interactive Courses
