@@ -11,28 +11,35 @@ Welcome to my DBA Interview Preparation Repository! This repository is designed 
 - Exhibit strong communication and soft skills during interviews.
 
 ## Repository Structure
-- **/docs:** Core documentation including:
-  - `1_define_your_ultimate_goal.md`
-  - `2_analyze_job_requirements.md`
-  - `3_create_a_focused_study_plan.md`
-- **/labs:** Hands-on lab exercises organized by topic:
-  - `database_fundamentals/`
-  - `performance_tuning/`
-  - `backup_recovery_security/`
-  - `azure_labs/`
-  - `soft_skills/`
-- **/notes:** Daily/weekly reflections and key insights:
-  - `database_fundamentals/`
-  - `performance_tuning/`
-  - `backup_recovery_security/`
-  - `azure_labs/`
-  - `soft_skills/`
-- **/bookmarks:** Curated external resources and references:
-  - `database_fundamentals/`
-  - `performance_tuning/`
-  - `backup_recovery_security/`
-  - `azure_labs/`
-  - `soft_skills/`
+
+```plaintext
+DBA-interview-prep/
+├── README.md                          # Overview of the repository and DBA interview prep goals
+├── .gitignore                         # Files and directories to ignore
+├── LICENSE                            # License file (e.g., MIT License)
+├── docs/                              # Core documentation
+│   ├── 1_define_your_ultimate_goal.md # Define your ultimate goal and objectives
+│   ├── 2_analyze_job_requirements.md   # Analyze job requirements for DBA roles
+│   └── 3_create_a_focused_study_plan.md  # Create a focused study plan
+├── labs/                              # Hands-on lab exercises organized by topic
+│   ├── database_fundamentals/          # Exercises on core database concepts
+│   ├── performance_tuning/             # Labs on optimizing performance
+│   ├── backup_recovery_security/       # Practical exercises on backup, recovery, and security
+│   ├── azure_labs/                     # Cloud database labs (Azure-specific)
+│   └── soft_skills/                    # Exercises for enhancing communication and soft skills
+├── notes/                             # Daily/weekly reflections and key insights
+│   ├── database_fundamentals/          # Insights on database fundamentals
+│   ├── performance_tuning/             # Reflections on performance tuning challenges
+│   ├── backup_recovery_security/       # Notes on backup, recovery, and security practices
+│   ├── azure_labs/                     # Observations from Azure lab sessions
+│   └── soft_skills/                    # Reflections on soft skills development
+└── bookmarks/                         # Curated external resources and references
+    ├── database_fundamentals/          # Articles, tutorials, and books on core concepts
+    ├── performance_tuning/             # Resources for performance optimization
+    ├── backup_recovery_security/       # References on backup, recovery, and security
+    ├── azure_labs/                     # Cloud and Azure-specific study materials
+    └── soft_skills/                    # External content on improving soft skills
+```
 
 ## How to Use This Repository
 - **Theoretical Content:** Check the `/docs` folder for your ultimate goal, job requirements analysis, and your focused study plan.
