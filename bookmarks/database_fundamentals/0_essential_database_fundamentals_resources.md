@@ -27,7 +27,7 @@ Below are some seminal papers that have significantly influenced the field of da
   Comprehensive, expert-led courses designed to prepare you for certification and real-world challenges.
 
 - **edX:**  
-  [Databases: Relational Databases and SQL](https://www.edx.org/course/databases-relational-databases-and-sql)  
+  [Databases: Relational Databases and SQL](https://learning.edx.org/course/course-v1:StanfordOnline+SOE.YDB-SQL0001+2T2020/home)  
   A well-structured course that provides a solid foundation in SQL and database principles.
 
 - **Pluralsight:**  
