@@ -38,6 +38,12 @@ Below are some seminal papers that have significantly influenced the field of da
   [Oracle Learning Channel](https://www.youtube.com/user/OracleLearning)  
   The official YouTube channel featuring free, high-quality video tutorials that cover Oracle Database fundamentals and beyond.
 
+# Oracle Documentation Official Website
+
+Visit the official Oracle Documentation website for comprehensive guides, reference manuals, and technical articles on all Oracle products and technologies:
+
+[Oracle Documentation](https://docs.oracle.com/en/)
+
 
 ## Online Tutorials & Interactive Courses
 
