@@ -30,7 +30,7 @@ A comprehensive video or article-based tutorial aimed at beginners learning SQL 
 
 ## Books & eBooks
 
-- **Database System Concepts**  
+- **[Database System Concepts](https://mrce.in/ebooks/Database%20System%20Concepts%207th%20Ed.pdf)**  
   *by Silberschatz, Korth, and Sudarshan*  
   A foundational textbook that covers database design, relational models, and SQL in depth.
 
