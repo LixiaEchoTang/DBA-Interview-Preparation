@@ -64,6 +64,30 @@ This analysis is based on a typical job description for a Senior Oracle DBA role
 - **Certifications:**  
   - While certifications are important, the focus is on hands-on expertise and practical problem-solving abilities.
 
+## Job Requirements Flowchart
+Below is a visual representation of the key components of the job requirements:
+
+```mermaid
+flowchart TD
+    A[Job Requirements]
+    B[Technical Skills]
+    C[Soft Skills]
+    D[Logistics & Environment]
+    A --> B
+    A --> C
+    A --> D
+    B --> E[Oracle]
+    B --> F[PostgreSQL]
+    B --> G[Performance Tuning]
+    B --> H[Backup & Recovery]
+    B --> I[Security]
+    B --> J[Azure]
+    C --> K[Communication]
+    C --> L[Collaboration]
+    C --> M[Problem Solving]
+    D --> N[Relocation]
+    D --> O[Hybrid Work Model]
+
 ## Summary
 - **Key Takeaways:**  
   - The ideal candidate should be highly proficient in Oracle database management, have strong skills in performance tuning, backup/recovery, and security, and be well-versed in cloud technologies (with an emphasis on Azure).  
