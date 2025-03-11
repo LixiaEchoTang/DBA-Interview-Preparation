@@ -1,4 +1,4 @@
-`using Oracle Architecture as an example`
+# `using Oracle Architecture as an example`
 # Oracle Architecture – Study Notes  
 **Date:** 2025-03-11  
 **Week/Day:** W1-D1  
