@@ -26,12 +26,12 @@ Below is a visual timeline for my 30-day DBA study plan:
 gantt
     title 30-Day DBA Study Plan
     dateFormat  YYYY-MM-DD
-    Fundamentals           :a1, 2025-03-06, 7d
-    Performance Tuning     :a2, 2025-03-13, 7d
-    Backup & Security      :a3, 2025-03-20, 7d
-    Azure Labs             :a4, 2025-03-20, 7d
-    Soft Skills            :a5, 2025-03-27, 7d
-    Mock Interviews        :a6, 2025-03-27, 7d
+    Fundamentals           :a1, 2025-03-11, 7d
+    Performance Tuning     :a2, 2025-03-18, 7d
+    Backup & Security      :a3, 2025-03-25, 7d
+    Azure Labs             :a4, 2025-03-25, 7d
+    Soft Skills            :a5, 2025-04-01, 7d
+    Mock Interviews        :a6, 2025-04-01, 7d
 ```
 
 ---
