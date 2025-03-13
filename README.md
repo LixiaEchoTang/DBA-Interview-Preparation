@@ -30,15 +30,13 @@ DBA-interview-prep/
 │   ├── Deep_Dive_Into_Each_Topic/
 │   │   ├── Oracle_Architecture.md              # Overview of Oracle’s architecture (instance, memory structures, processes)
 │   │   ├── Installation_and_Configuration.md   # Step-by-step installation, configuration, and initial setup
-│   │   ├── Oracle_Networking_and_Security.md    # Network configurations, listener setup, security configurations, user management, and auditing
 │   │   ├── Performance_Tuning_and_Optimization.md# In-depth performance metrics, SQL tuning, and resource management
 │   │   ├── Backup_and_Recovery_Strategies.md    # Methods and best practices for backup, recovery, RMAN usage, and disaster recovery
 │   │   ├── High_Availability_and_Clustering.md  # Concepts around Oracle RAC, Data Guard, and other HA solutions
-│   │   ├── Troubleshooting_and_Diagnostics.md   # Common issues, diagnostic tools (like ADRCI), and troubleshooting techniques
 │   │   ├── Automation_and_Scripting.md          # Using PL/SQL, shell scripts, and automation tools for DBA tasks
 │   │   └── Maintenance_and_Patching.md          # Regular maintenance tasks, patching, upgrades, and lifecycle management
 │   ├── SQL/
-│   │   └── README.md                           # Introduction to Oracle SQL topics, best practices, and examples
+│   │   └── Oracle_Sql.md                           # Introduction to Oracle SQL topics, best practices, and examples
 │   └── What_If_Scenarios_Insights/
 │       └── README.md                           # Overview and initial content for what-if scenarios and insights
 ├── postgresql/
