@@ -1,6 +1,6 @@
 # Essential Database Fundamentals Resources
 
-## Fundamental Database Articles
+## Fundamental Database Papers  
 
 Below are some seminal papers that have significantly influenced the field of databases:
 
