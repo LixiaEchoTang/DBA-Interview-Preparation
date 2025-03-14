@@ -4,7 +4,7 @@
 
 Below are some seminal papers that have significantly influenced the field of databases:
 
-### 1. E.F. Codd’s “A Relational Model of Data for Large Shared Data Banks” (1970)
+### 1. [E.F. Codd’s “A Relational Model of Data for Large Shared Data Banks” (1970)](https://dl.acm.org/doi/10.1145/362384.362685)
 - **Contribution:** Introduced the relational model, which forms the basis of almost all modern database systems.
 - **Impact:** Shifted the focus from hierarchical and network models to a flexible, table-based structure.
 
