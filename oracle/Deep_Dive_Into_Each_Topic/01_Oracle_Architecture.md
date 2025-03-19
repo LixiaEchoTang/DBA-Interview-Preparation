@@ -39,6 +39,30 @@
 4. Describe the process of creating a new PDB in an existing CDB.
 5. What challenges might you face when managing multitenant environments, and how would you resolve them?
 
+### Top 5 Interview Questions & Answers
+
+## 1. What is the Oracle Multitenant Architecture, and how do CDBs differ from PDBs?
+- **Oracle Multitenant Architecture Overview:**  
+   Introduced in Oracle 12c, the multitenant architecture allows multiple databases (pluggable databases) to share a single "container" (container database). It simplifies consolidation, patching, and resource management by letting you "plug" or "unplug" databases without disrupting others.
+
+- **CDB (Container Database):**  
+   - **Definition:**  
+     The primary container that holds Oracle metadata and manages overall system resources.
+   - **Components:**  
+     - Includes the root (common) container, which stores common objects and data dictionary metadata.
+     - Contains a seed PDB for creating new pluggable databases.
+   - **Management:**  
+     Manages system-wide operations such as instance startup, memory allocation, and background processes.
+
+- **PDB (Pluggable Database):**  
+   - **Definition:**  
+     A self-contained, portable database that shares the CDB’s underlying instance and infrastructure.
+   - **Characteristics:**  
+     - Has its own data files, schemas, and metadata.
+     - Relies on the CDB for common components (e.g., background processes, memory).
+   - **Flexibility:**  
+     Can be easily moved (plugged/unplugged) to or from different CDBs, facilitating easier deployment and consolidation.
+
 ---
 
 ## C. Oracle Database Server Configuration
