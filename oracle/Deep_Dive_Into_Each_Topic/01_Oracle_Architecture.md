@@ -48,10 +48,46 @@
   Ensures data recoverability by committing transaction details.
 
 - **SMON (System Monitor):**  
+  Performs crash recovery and instance recovery at startup if needed.  
+  Cleans up temporary segments and coalesces free space in data files.
 
 ## 3. How does Oracle manage data consistency and recovery using its storage components?
+- **Data Files:**  
+  Store the persistent database data.
+
+- **Redo Log Files:**  
+  Record every change made to the database, enabling crash and media recovery.
+
+- **Undo Segments:**  
+  Maintain before-images of data for read consistency and allow transaction rollback if needed.
+
+- **How it works:**  
+  - When changes occur, Oracle writes after-images to the redo log buffer, which LGWR flushes to redo log files.
+  - Oracle also stores before-images in undo segments to support consistent reads and rollbacks.
+  - If a failure happens, Oracle applies redo entries to data files to recover committed transactions and uses undo data to roll back uncommitted changes, ensuring data integrity.
+
 ## 4. What is the difference between a user process and a background process in Oracle?
+- **User Process:**  
+  Represents the client-side session (e.g., SQL*Plus, application connection).  
+  Issues SQL statements and communicates with the Oracle instance.
+
+- **Background Process:**  
+  Runs on the server side as part of the Oracle instance.  
+  Performs key internal tasks like writing data to files (DBWR), logging redo data (LGWR), and monitoring system health (SMON, PMON).
+
 ## 5. How do these architectural components contribute to overall database performance?
+- **Efficient Memory Usage (SGA/PGA):**
+  - Caching frequently accessed data in the SGA (e.g., Database Buffer Cache) reduces disk I/O.
+  - Private workspace in the PGA ensures efficient handling of session-specific operations like sorts.
+
+- **Background Processes:**
+  - DBWR optimizes data writes by batching them, improving I/O performance.
+  - LGWR ensures minimal delays in logging transactions, aiding quick commits and recoverability.
+  - SMON and PMON handle maintenance and cleanup, keeping the database running smoothly.
+
+- **User Processes:**
+  - Offload heavy operations (I/O, logging, recovery tasks) to background processes.
+  - Focus on sending queries and receiving results, improving overall throughput and response time.
 
 ---
 
