@@ -30,3 +30,18 @@
 - **Size Limit:**
   - **Default (`max_string_size = STANDARD`):** Up to 2000 bytes.
   - **Extended (`max_string_size = EXTENDED`):** Up to 32767 bytes.
+
+---
+
+# 3. What are Nested Tables?
+
+- **Definition:**  
+  A nested table in Oracle is a collection type that stores multiple values in a single column.
+
+- **Storage:**  
+  Internally, Oracle creates a separate table (sub-table) to hold the nested data for each row.
+
+- **Usage:**  
+  Useful when a row needs to reference multiple related values (multi-valued attributes) within one column.
+
+  Questions from YouTube Video [Top 15 SQL interview questions and Answers for freshers](https://www.youtube.com/watch?v=mQ5Bruog9cI&ab_channel=TechDBA_Future)   
