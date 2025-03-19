@@ -20,6 +20,39 @@
 4. What is the difference between a user process and a background process in Oracle?
 5. How do these architectural components contribute to overall database performance?
 
+### Top 5 Interview Questions & Answers
+
+## 1. What are the main components of Oracle's memory architecture, and what roles do SGA and PGA play?
+- **Overview:**  
+  Oracle’s memory architecture primarily consists of two main areas:
+  - **SGA (System Global Area)**
+  - **PGA (Program Global Area)**
+
+- **SGA (System Global Area):**  
+  - A shared memory region used by all Oracle background processes and user sessions.
+  - Holds critical structures such as the Shared Pool, Database Buffer Cache, Redo Log Buffer, and others.
+  - Manages data and control information needed at the instance level.
+
+- **PGA (Program Global Area):**  
+  - A private memory region allocated to each server or background process.
+  - Stores session-specific data (e.g., sort areas, session variables, and cursor information).
+  - Does not share data across sessions—its contents are unique to each process.
+
+## 2. Can you explain the function of key background processes such as DBWR, LGWR, and SMON?
+- **DBWR (Database Writer):**  
+  Writes modified data blocks from the database buffer cache to data files.  
+  Manages I/O efficiently by grouping multiple block writes together.
+
+- **LGWR (Log Writer):**  
+  Writes redo log entries from the redo log buffer to the online redo log files.  
+  Ensures data recoverability by committing transaction details.
+
+- **SMON (System Monitor):**  
+
+## 3. How does Oracle manage data consistency and recovery using its storage components?
+## 4. What is the difference between a user process and a background process in Oracle?
+## 5. How do these architectural components contribute to overall database performance?
+
 ---
 
 ## B. Oracle Multitenant Architecture
