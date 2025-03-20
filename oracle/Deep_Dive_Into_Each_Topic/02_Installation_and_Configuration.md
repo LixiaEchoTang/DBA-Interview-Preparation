@@ -9,6 +9,10 @@
 - What are the differences between the two parts of Practice 8-1 when configuring the Oracle Network?
 - How do you create a Net Service Name for a Pluggable Database (PDB) and what are its advantages?
 
+### Top 5 Interview Questions & Answers
+
+##
+
 ## Core Concepts
 - **Oracle Net Components:** Understanding of the client/server architecture in Oracle networking.
 - **Naming Methods:** How Oracle uses TNS (Transparent Network Substrate) and other naming methods to resolve database services.
@@ -30,6 +34,10 @@
 - What are the necessary steps to create and configure a second listener in Oracle?
 - How does the connection process change when using a newly created listener versus the default?
 - What common issues can arise with listener configuration and how can they be troubleshooted?
+
+### Top 5 Interview Questions & Answers
+
+##
 
 ## Core Concepts
 - **Listener Administration:** Managing the network service that accepts client connections.
@@ -54,6 +62,10 @@
 - In what ways do client configurations differ when accessing a database in shared server mode?
 - How does shared server mode impact scalability and resource management in Oracle databases?
 
+### Top 5 Interview Questions & Answers
+
+##
+
 ## Core Concepts
 - **Shared Server Mode:** The architecture that allows multiple client sessions to share a smaller pool of server processes.
 - **Resource Management:** How shared server mode improves scalability in high-connection environments.
@@ -75,6 +87,10 @@
 - Which parameters in the `cman.ora` file are critical for proper Connection Manager configuration?
 - Can you explain the concept of session multiplexing and how it benefits Oracle databases?
 - How do you ensure that both the clients and the Oracle Database Server are properly configured for Connection Manager operations?
+
+### Top 5 Interview Questions & Answers
+
+##
 
 ## Core Concepts
 - **Oracle Connection Manager:** Its role in multiplexing connections and controlling network access.
@@ -100,6 +116,10 @@
 - What advantages does using a PDB seed offer when provisioning new databases?
 - Can you walk through the process of provisioning a new PDB?
 - How is the lifecycle of a PDB managed once it has been created?
+
+### Top 5 Interview Questions & Answers
+
+##
 
 ## Core Concepts
 - **Pluggable Databases (PDBs):** Understanding the multi-tenant architecture in Oracle.
