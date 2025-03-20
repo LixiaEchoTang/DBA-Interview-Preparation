@@ -11,7 +11,11 @@
 
 ### Top 5 Interview Questions & Answers
 
-##
+## - What are the primary Oracle Net components and how do they interact within a networked environment?
+## - How would you define a naming method in Oracle networking, and why is it important?
+## - Can you explain the steps involved in configuring the Oracle Network to access a database (Practice 8-1 Part 01)?
+## - What are the differences between the two parts of Practice 8-1 when configuring the Oracle Network?
+## - How do you create a Net Service Name for a Pluggable Database (PDB) and what are its advantages?
 
 ## Core Concepts
 - **Oracle Net Components:** Understanding of the client/server architecture in Oracle networking.
