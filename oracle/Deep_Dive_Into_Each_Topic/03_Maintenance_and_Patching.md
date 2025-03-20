@@ -11,6 +11,10 @@
 - How do datafiles relate to tablespaces?
 - What is the purpose of SYSTEM and SYSAUX tablespaces?
 
+### Top 5 Interview Questions & Answers
+
+## 
+
 ### Core Concepts
 - **Logical storage structures:** Tablespaces, Segments, Extents, Blocks
 - **Physical storage structures:** Datafiles, Control files, Redo logs
@@ -32,6 +36,10 @@
 - What is the purpose of the UNDO tablespace?
 - How do default tablespaces impact storage?
 - How do you change a user's default tablespace?
+
+### Top 5 Interview Questions & Answers
+
+## 
 
 ### Core Concepts
 - Default tablespaces: SYSTEM, SYSAUX, TEMP, UNDO
@@ -55,6 +63,10 @@
 - What are PCTFREE and PCTUSED?
 - How does block size affect performance?
 
+### Top 5 Interview Questions & Answers
+
+## 
+
 ### Core Concepts
 - **Data block structure:** Header, Row Data, Free Space
 - **Storage parameters:** PCTFREE, PCTUSED
@@ -76,6 +88,10 @@
 - How do you disable deferred segment creation?
 - What happens when data is inserted?
 - What are the trade-offs of deferred segment creation?
+
+### Top 5 Interview Questions & Answers
+
+## 
 
 ### Core Concepts
 - Deferred vs. Immediate segment allocation
@@ -100,6 +116,10 @@
 - What is a bigfile tablespace?
 - How do you drop a tablespace?
 
+### Top 5 Interview Questions & Answers
+
+## 
+
 ### Core Concepts
 - Tablespace types: Permanent, Temporary, Undo
 - Autoextend and resizing
@@ -119,6 +139,10 @@
 - What views provide tablespace details?
 - How do you find fragmented tablespaces?
 - How do you prevent tablespace overuse?
+
+### Top 5 Interview Questions & Answers
+
+## 
 
 ### Core Concepts
 - Monitoring tablespace usage
@@ -142,6 +166,10 @@
 - What is locally managed vs. dictionary-managed tablespaces?
 - How do you prevent space allocation issues?
 
+### Top 5 Interview Questions & Answers
+
+## 
+
 ### Core Concepts
 - Automatic segment space management
 - Reclaiming unused space
@@ -163,6 +191,10 @@
 - How do you ensure data isolation?
 - When should you use temporary tables?
 
+### Top 5 Interview Questions & Answers
+
+## 
+
 ### Core Concepts
 - Global Temporary Tables (GTTs)
 - Session vs. Transaction scope
@@ -182,6 +214,10 @@
 - What is Hybrid Columnar Compression (HCC)?
 - When should you use OLTP vs. Archive compression?
 - How does compression affect redo logs?
+
+### Top 5 Interview Questions & Answers
+
+## 
 
 ### Core Concepts
 - Table, Index, and Tablespace compression
@@ -205,6 +241,10 @@
 - How do you configure automatic undo management?
 - What happens if the undo tablespace runs out of space?
 
+### Top 5 Interview Questions & Answers
+
+## 
+
 ### Core Concepts
 - Undo vs. Redo
 - Undo retention policies
@@ -226,6 +266,10 @@
 - How do you enable temporary undo for a PDB?
 - What is the impact of using temporary undo?
 - How do you monitor temporary undo usage?
+
+### Top 5 Interview Questions & Answers
+
+## 
 
 ### Core Concepts
 - Temporary Undo for PDBs
@@ -249,6 +293,10 @@
 - How do you drop a user safely?
 - How do you assign a default tablespace to a user?
 
+### Top 5 Interview Questions & Answers
+
+## 
+
 ### Core Concepts
 - User authentication methods (password, OS, external)
 - User privileges and roles
@@ -269,6 +317,10 @@
 - How do you view user quotas?
 - How do quotas impact space management?
 - Can you set quotas for SYSTEM tablespaces?
+
+### Top 5 Interview Questions & Answers
+
+## 
 
 ### Core Concepts
 - Quotas in user management
@@ -291,6 +343,10 @@
 - How do you create and grant a role?
 - How do you revoke privileges from a user?
 - What is the minimum privilege required to create a session?
+
+### Top 5 Interview Questions & Answers
+
+## 
 
 ### Core Concepts
 - System vs. Object privileges
@@ -315,6 +371,10 @@
 - How do you check the current resource limits?
 - What happens if a user exceeds their resource limits?
 
+### Top 5 Interview Questions & Answers
+
+## 
+
 ### Core Concepts
 - Profiles and resource limits
 - Password policies
@@ -337,6 +397,10 @@
 - How do you view audit logs?
 - What are common use cases for database auditing?
 - How do you audit specific user actions?
+
+### Top 5 Interview Questions & Answers
+
+## 
 
 ### Core Concepts
 - Unified Auditing
@@ -361,6 +425,10 @@
 - What are external tables?
 - How do you monitor data load performance?
 
+### Top 5 Interview Questions & Answers
+
+## 
+
 ### Core Concepts
 - SQL*Loader vs. Data Pump
 - External Tables
@@ -384,6 +452,10 @@
 - What are the limitations of transportable tablespaces?
 - How do you handle cross-platform tablespace transport?
 
+### Top 5 Interview Questions & Answers
+
+## 
+
 ### Core Concepts
 - Transportable Tablespaces (TTS)
 - Cross-platform data migration
@@ -405,6 +477,10 @@
 - What are the performance considerations for external tables?
 - How do you create an external table?
 - How do you query and unload data using external tables?
+
+### Top 5 Interview Questions & Answers
+
+## 
 
 ### Core Concepts
 - External tables as a data transfer mechanism
