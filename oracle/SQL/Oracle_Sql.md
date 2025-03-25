@@ -2,26 +2,8 @@
 
 # 1. Retrieve Data using the SQL SELECT Statement
 
-## Top 5 Interview Questions
-- What is the purpose of the SELECT statement in SQL?
-- How do you differentiate between selecting all columns and specific columns?
-- Explain the basic syntax of a SELECT statement.
-- What role does the FROM clause play in a SELECT query?
-- How do you use SELECT DISTINCT to eliminate duplicate rows?
-
-## Core Concepts, Tools & Demos
-- **Core Concepts:** SQL syntax, SELECT clause, FROM clause, use of DISTINCT
-- **Tools:** Oracle SQL Developer, SQL*Plus
-- **Demos:** Running simple queries to display entire tables versus specific columns
-
-# 2. Restrict and Sort Data
-
-## Top 5 Interview Questions
-- How do you filter data using the WHERE clause?
-- What is the purpose of the ORDER BY clause, and how does it work?
-- How can multiple conditions be combined in a WHERE clause?
-- What is the difference between ascending and descending order?
 - How do you manage NULL values in sorting?
+- 
 
 ## Core Concepts, Tools & Demos
 - **Core Concepts:** WHERE clause, logical operators, ORDER BY clause
