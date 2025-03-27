@@ -121,7 +121,7 @@ While there isn’t a single, go-to site specifically for database interviews, s
 
 ## 2. DataLemur
 
-**Focus:** SQL and data science interview questions.
+**Focus:** Ace the data science interview
 
 **Features:**
 
