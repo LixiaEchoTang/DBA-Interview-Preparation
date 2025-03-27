@@ -119,9 +119,10 @@ While there isn’t a single, go-to site specifically for database interviews, s
 
 ---
 
-## 2. DataLemur
+## 2. DataScience
 
 **Focus:** Ace the data science interview
+**Focus:** Data Science Interview: Prep for SQL, Panda, Python, R Language, Machine Learning, DBMS and RDBMS – And More – The Full Data Scientist Interview Handbook
 
 **Features:**
 
