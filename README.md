@@ -99,5 +99,120 @@ In addition to the detailed technical content, here’s an overview of my interv
   In the days leading up to an interview, perform a comprehensive review of all documentation and participate in full-scale mock interviews to boost confidence.
 
 ---
+# Database Interview Preparation Resources
+
+While there isn’t a single, go-to site specifically for database interviews, several platforms and resources offer structured, in-depth preparation. Below are a few suggestions that come closest to providing a “one-stop shop” for database interview prep, along with strategies to create your own comprehensive plan.
+
+---
+
+## 1. Educative’s “Grokking” Series
+
+**What to Look For:**
+
+- **Grokking the Advanced SQL Interview** (if available on Educative)
+- **Grokking the Database Design Interview** (some modules overlap with system design)
+
+**Why It’s Useful:**
+
+- Step-by-step, example-driven approach—similar to ByteByteGo’s style.
+- Often includes quizzes, hands-on exercises, and case studies.
+
+---
+
+## 2. DataLemur
+
+**Focus:** SQL and data science interview questions.
+
+**Features:**
+
+- Curated interview-style SQL problems (basic to advanced).
+- Guidance on optimizing queries, data manipulation, and real-world data sets.
+- Community/forum where you can discuss solutions and interview tips.
+
+**Why It’s Good:**
+
+- Created by Nick Singh (co-author of *Ace the Data Science Interview*), offering a structured, interview-focused format.
+
+---
+
+## 3. StrataScratch
+
+**Focus:** Real SQL interview questions sourced from top tech companies.
+
+**Features:**
+
+- A variety of difficulty levels, from beginner to advanced.
+- Explanations and hints for each problem.
+- Mock interview-style environment for practice.
+
+**Why It’s Good:**
+
+- Practice on actual questions used by companies like Facebook, Amazon, Google, etc.
+
+---
+
+## 4. Interview Query
+
+**Focus:** Data science, analytics, and SQL interviews.
+
+**Features:**
+
+- A large database of SQL challenges.
+- Case studies focusing on data analysis scenarios.
+- Interview prep guides for both technical and behavioral questions.
+
+**Why It’s Good:**
+
+- Provides a mix of SQL, statistics, and business case problems, reflecting real-world interview expectations.
+
+---
+
+## 5. Combining Multiple Resources
+
+**Why You Should:**
+
+- A single resource rarely covers all aspects (database design, advanced SQL, transaction management, performance tuning, etc.).
+- You can replicate ByteByteGo-style thoroughness by piecing together specialized platforms, books, and hands-on practice.
+
+---
+
+## Key Topics to Cover
+
+- **Database Design & Normalization:**  
+  Discuss and apply normalization, indexing strategies, and partitioning.
+- **Advanced SQL & Query Optimization:**  
+  Practice complex queries (window functions, CTEs, subqueries) and learn how to interpret execution plans.
+- **Transaction Management & Concurrency:**  
+  Understand ACID properties, isolation levels, and how to handle locking/deadlocks.
+- **Real-World Case Studies:**  
+  Use mock scenarios (e.g., e-commerce or analytics pipelines) to integrate design and SQL skills.
+
+---
+
+## Recommended Books & Additional Material
+
+- *Designing Data-Intensive Applications* by Martin Kleppmann  
+  _(A deep dive into modern database systems and distributed data.)_
+- *Database System Concepts* by Silberschatz, Korth, and Sudarshan  
+  _(A classic textbook for fundamental database theory and design principles.)_
+- **Online Resources:**
+  - [SQLShack](https://www.sqlshack.com/)
+  - [Use-The-Index-Luke](https://use-the-index-luke.com/)
+
+---
+
+## Conclusion
+
+While there isn’t an exact ByteByteGo clone dedicated solely to database interviews, you can assemble a robust preparation plan by leveraging:
+
+- Educative’s Grokking courses
+- DataLemur
+- StrataScratch
+- Interview Query
+
+Supplement these with classic database texts and hands-on practice. By focusing on advanced SQL queries, database design, performance tuning, and transaction management—along with plenty of mock interviews—you’ll be well-equipped to excel in any database-focused interview.
+
+
+---
 
 Feel free to explore the repository and use this structure as your guide throughout my DBA interview preparation journey. Happy studying and best of luck!
