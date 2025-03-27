@@ -110,7 +110,7 @@ While there isn’t a single, go-to site specifically for database interviews, s
 **What to Look For:**
 
 - **Grokking the Advanced SQL Interview** (if available on Educative)
-- **Grokking the Database Design Interview** (some modules overlap with system design)
+- **Grokking the Database Design Interview** ([Learn more](https://bytebytego.com/courses/system-design-interview/foreword)) — some modules overlap with system design
 
 **Why It’s Useful:**
 
