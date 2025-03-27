@@ -136,31 +136,6 @@ While there isn’t a single, go-to site specifically for database interviews, s
 
 ---
 
-## Recommended Books & Additional Material
-
-- *Designing Data-Intensive Applications* by Martin Kleppmann  
-  _(A deep dive into modern database systems and distributed data.)_
-- *Database System Concepts* by Silberschatz, Korth, and Sudarshan  
-  _(A classic textbook for fundamental database theory and design principles.)_
-- **Online Resources:**
-  - [SQLShack](https://www.sqlshack.com/)
-  - [Use-The-Index-Luke](https://use-the-index-luke.com/)
-
----
-
-## Conclusion
-
-While there isn’t an exact ByteByteGo clone dedicated solely to database interviews, you can assemble a robust preparation plan by leveraging:
-
-- Educative’s Grokking courses
-- DataLemur
-- StrataScratch
-- Interview Query
-
-Supplement these with classic database texts and hands-on practice. By focusing on advanced SQL queries, database design, performance tuning, and transaction management—along with plenty of mock interviews—you’ll be well-equipped to excel in any database-focused interview.
-
----
-
 ## Practice Interview Questions
 
 Enhance your hands-on experience with these resources that offer a wide range of SQL and database interview questions:
@@ -173,7 +148,11 @@ Enhance your hands-on experience with these resources that offer a wide range of
   Access a curated set of interview questions that cover various aspects of SQL and database management, ideal for practicing problem-solving and technical reasoning.  
   [Visit DataLemur Questions](https://datalemur.com/questions)
 
+- **W3Schools SQL Tutorial**  
+  Explore comprehensive SQL tutorials and interactive examples to reinforce your query skills.  
+  [Visit W3Schools SQL Tutorial](https://www.w3schools.com/sql/)
 
+  
 ---
 
 Feel free to explore the repository and use this structure as your guide throughout my DBA interview preparation journey. Happy studying and best of luck!
