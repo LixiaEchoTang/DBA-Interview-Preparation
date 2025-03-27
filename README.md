@@ -111,6 +111,8 @@ While there isn’t a single, go-to site specifically for database interviews, s
 
 - **Grokking the Advanced SQL Interview** (if available on Educative)
 - **Grokking the Database Design Interview** ([Learn more](https://bytebytego.com/courses/system-design-interview/foreword)) — some modules overlap with system design
+- **Focus:** Ace the data science interview
+- **Focus:** Data Science Interview: Prep for SQL, Panda, Python, R Language, Machine Learning, DBMS and RDBMS – And More – The Full Data Scientist Interview Handbook
 
 **Why It’s Useful:**
 
@@ -119,74 +121,18 @@ While there isn’t a single, go-to site specifically for database interviews, s
 
 ---
 
-## 2. DataScience
+## 2 Combining Multiple Resources
 
-**Focus:** Ace the data science interview
-**Focus:** Data Science Interview: Prep for SQL, Panda, Python, R Language, Machine Learning, DBMS and RDBMS – And More – The Full Data Scientist Interview Handbook
+**Key Topics to Cover:**
 
-**Features:**
+- **Database High Availability & Optimization:**  
+  Oracle High Availability, Disaster Recovery, and Cloud Services (Explore RAC, Data Guard, and Cloud Technology)
+  - **Oracle Data Guard:** Focus on configuring and managing standby databases for high availability and disaster recovery.
+  - **RMAN (Recovery Manager):** Learn backup and recovery strategies, including incremental backups, point-in-time recovery, and automating backup jobs.
+  - **ASM (Automatic Storage Management):** Understand how to manage disk groups, optimize storage, and ensure efficient I/O performance.
+  - **Oracle Multitenant Architecture:** Gain expertise in managing Container Databases (CDB) and Pluggable Databases (PDB), particularly in Oracle 12c and later.
+  - **Performance Tuning & Optimization:** Utilize tools like AWR (Automatic Workload Repository), ADDM (Automatic Database Diagnostic Monitor), and SQL Tuning Advisor to diagnose and resolve performance bottlenecks.
 
-- Curated interview-style SQL problems (basic to advanced).
-- Guidance on optimizing queries, data manipulation, and real-world data sets.
-- Community/forum where you can discuss solutions and interview tips.
-
-**Why It’s Good:**
-
-- Created by Nick Singh (co-author of *Ace the Data Science Interview*), offering a structured, interview-focused format.
-
----
-
-## 3. StrataScratch
-
-**Focus:** Real SQL interview questions sourced from top tech companies.
-
-**Features:**
-
-- A variety of difficulty levels, from beginner to advanced.
-- Explanations and hints for each problem.
-- Mock interview-style environment for practice.
-
-**Why It’s Good:**
-
-- Practice on actual questions used by companies like Facebook, Amazon, Google, etc.
-
----
-
-## 4. Interview Query
-
-**Focus:** Data science, analytics, and SQL interviews.
-
-**Features:**
-
-- A large database of SQL challenges.
-- Case studies focusing on data analysis scenarios.
-- Interview prep guides for both technical and behavioral questions.
-
-**Why It’s Good:**
-
-- Provides a mix of SQL, statistics, and business case problems, reflecting real-world interview expectations.
-
----
-
-## 5. Combining Multiple Resources
-
-**Why You Should:**
-
-- A single resource rarely covers all aspects (database design, advanced SQL, transaction management, performance tuning, etc.).
-- You can replicate ByteByteGo-style thoroughness by piecing together specialized platforms, books, and hands-on practice.
-
----
-
-## Key Topics to Cover
-
-- **Database Design & Normalization:**  
-  Discuss and apply normalization, indexing strategies, and partitioning.
-- **Advanced SQL & Query Optimization:**  
-  Practice complex queries (window functions, CTEs, subqueries) and learn how to interpret execution plans.
-- **Transaction Management & Concurrency:**  
-  Understand ACID properties, isolation levels, and how to handle locking/deadlocks.
-- **Real-World Case Studies:**  
-  Use mock scenarios (e.g., e-commerce or analytics pipelines) to integrate design and SQL skills.
 
 ---
 
