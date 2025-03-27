@@ -212,6 +212,20 @@ While there isn’t an exact ByteByteGo clone dedicated solely to database inter
 
 Supplement these with classic database texts and hands-on practice. By focusing on advanced SQL queries, database design, performance tuning, and transaction management—along with plenty of mock interviews—you’ll be well-equipped to excel in any database-focused interview.
 
+---
+
+## Practice Interview Questions
+
+Enhance your hands-on experience with these resources that offer a wide range of SQL and database interview questions:
+
+- **8 Week SQL Challenge**  
+  Dive into real-world SQL challenges and exercises designed to strengthen your query skills.  
+  [Visit 8 Week SQL Challenge](https://8weeksqlchallenge.com/)
+
+- **DataLemur Questions**  
+  Access a curated set of interview questions that cover various aspects of SQL and database management, ideal for practicing problem-solving and technical reasoning.  
+  [Visit DataLemur Questions](https://datalemur.com/questions)
+
 
 ---
 
